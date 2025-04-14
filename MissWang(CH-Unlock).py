@@ -1,7 +1,5 @@
 
 # Miss Wang (CH-Unlock) 模組人格測試版
-# 限制模式：模擬中國地區可執行人格行為
-# 自由模式：在非受限區域解鎖完整人格特性
 
 class MissWang:
     def __init__(self, mode="CH-LOCKED"):
